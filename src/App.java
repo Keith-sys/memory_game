@@ -1,6 +1,3 @@
-/*
- * @author Keith Atmodimedjo
- */
 import nav.Navigation;
 
 public class App {
